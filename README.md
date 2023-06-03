@@ -1,4 +1,3 @@
-# TouchGreen
 ![icon](https://github.com/pal404error/TouchGreen/assets/82200759/11e92c46-9257-4d7a-b97a-d0608173f55b)
 
 # TouchGreen
